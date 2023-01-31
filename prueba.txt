@@ -1,2 +1,0 @@
-prueba de git consola
-cambio para ver en la consola
